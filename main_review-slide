@@ -18,9 +18,15 @@ background: rgba(80, 160, 255, 0.18) !important;
 color: #f2f2f2 !important;
 }
 
+/* Placeholder (тень/фон) */
+.review-slide.placeholder {
+background: rgba(0, 0, 0, 0.5) !important;
+}
+
 /* Чтобы текст внутри не ломался */
 .review-slide.color-0 *,
 .review-slide.color-1 *,
-.review-slide.color-2 * {
+.review-slide.color-2 *,
+.review-slide.placeholder * {
 color: inherit !important;
 }
