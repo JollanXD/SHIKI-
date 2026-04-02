@@ -1,11 +1,5 @@
-.review-slide.color-0 {
-  background: rgba(255, 80, 80, 0.18) !important;
-}
-
-.review-slide.color-1 {
-  background: rgba(80, 255, 140, 0.18) !important;
-}
-
+.review-slide.color-0,
+.review-slide.color-1,
 .review-slide.color-2 {
-  background: rgba(80, 160, 255, 0.18) !important;
+  color: #ddd;
 }
