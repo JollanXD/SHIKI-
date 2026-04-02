@@ -10,7 +10,11 @@
 ### 1. Скопируйте этот код:
 
 ```css
-/* Вставь это в Shikimori */
+@import url("https://raw.githubusercontent.com/JollanXD/SHIKI-/refs/heads/main/main_style.css");
+```
+
+---
+```css
 @import url("https://raw.githubusercontent.com/JollanXD/SHIKI-/refs/heads/main/main_style.css");
 ```
 
